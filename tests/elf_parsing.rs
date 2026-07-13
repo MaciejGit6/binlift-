@@ -1,0 +1,1 @@
+//! ELF parsing integration tests.

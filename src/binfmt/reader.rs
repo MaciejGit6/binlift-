@@ -1,0 +1,1 @@
+//! Checked byte-cursor reader.
